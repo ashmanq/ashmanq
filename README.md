@@ -1,8 +1,8 @@
 # Salutations to all and sundry!
 
 I am but a humble human on a journey of discovery, with an aim to become a real ~~boy~~ developer! On my journey I'v come equiped with:
-1. The growth mindset 🗡 **sword**.
-1. The 🛡 **shield** of refusal... to give up!
+1. The growth mindset 🗡.
+1. The 🛡 of refusal... to give up!
 
 I currently work as a Software Developer for Toolstop, trying my best to not make too much of a mess. I am knowledgeable in the following:
 * JavaScript
