@@ -1,14 +1,15 @@
 # Salutations to all and sundry!
 
 I am but a humble human on a journey of discovery, with an aim to become a real ~~man~~ developer! On my journey I am equiped with:
-* The growth mindset **sword**
-* The **shield** of refusal... to give up
+* 🗡 The growth mindset **sword**
+* 🛡 The **shield** of refusal... to give up
 
-I have came far on my own and with the help of the CodeClan 4 month intense coding workout. I know some things....
+I currently work as a Software Developer for Toolstop. I am knowledgeable in the following:
 * JavaScript
-* React
+* React - Next.js
 * Vue
 * Ruby
+* C# (a little)
 * Java
 * PHP
 * HTML
